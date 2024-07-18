@@ -7,8 +7,7 @@
         "build": "now-sdk build",
         "deploy": "now-sdk deploy",
         "fetch": "now-sdk fetch",
-        "dependencies": "now-sdk dependencies",
-        "start": "npm run"
+        "dependencies": "now-sdk dependencies"
     },
     "devDependencies": {
         "@servicenow/sdk": "2.0.0-rc1",
